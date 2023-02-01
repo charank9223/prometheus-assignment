@@ -1,4 +1,4 @@
-## Run Node Exporter on local machine
+## Run prometheus on local machine
 
 Steps followed to install prometheus on linux node
 
